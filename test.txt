@@ -1,3 +1,5 @@
 This is my VS Code Git test
-this line changed from main branch
+conflict-branch
+this line resolved after conflict
+main
 this line is from feature-1 branch
